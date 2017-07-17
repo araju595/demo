@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 safsfsafafaffagga
+=======
+sgddgdsgsddgs
+>>>>>>> 52d5934d63f7b3985a3e2ee8ec34856e97f4c4be
