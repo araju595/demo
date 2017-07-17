@@ -1,2 +1,6 @@
 hiii
+<<<<<<< HEAD
 sdsaafafa
+=======
+How are you
+>>>>>>> 62cabb168ee546992969a6a653d4abacf27da984
